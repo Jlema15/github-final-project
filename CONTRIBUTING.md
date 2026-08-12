@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to the Simple Interest Calculator!
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## How to Contribute
 
 1. Fork this repository.
@@ -19,4 +21,4 @@ If you find a bug or have a suggestion, please open an issue and provide enough 
 
 Please make sure your changes are relevant to the project and have been tested before submitting a pull request.
 
-We appreciate all contributions that help improve this project.
+We appreciate your contributions to improving this project.
